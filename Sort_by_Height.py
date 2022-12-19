@@ -14,7 +14,7 @@ def solution(a):
                 if(a[j]<maxa and a[j]!=-1):
                     maxa=a[j]
                     a[j]=a[i]
-                    a[i]=maxa
+                    a[i]=maxa 
                     
             i=i+1
             
